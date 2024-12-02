@@ -271,6 +271,8 @@ namespace Mastermind_PE_Oguzhan_Yilmaz_1PROA
 
         }
 
+
+
         private void Name_Load(object sender, EventArgs e)
         {
            // string playerName = StartGame();
